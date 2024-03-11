@@ -1,0 +1,9 @@
+
+body {display: flex;flex-direction: column;}
+main {display: flex;flex-direction: column; align-items: center;}
+section {display: flex; justify-content: center; flex-direction: row;}
+div { height: 100px; width: 100px; }
+
+#one { background-color: red;}
+#two {background-color: aqua;}
+#three {background-color: blueviolet;}
